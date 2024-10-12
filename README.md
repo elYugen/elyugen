@@ -1,5 +1,4 @@
 <h1 align="center">Salut 👋, j'suis el famoso Yugen</h1>
-<h6 align="center">Anciennement Bitoky, elbitoku et tant d'autres.</h6>
 <h3 align="center">Un artiste de renom enfermé dans la cave qui a fini sur un ordinateur</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elyugen&label=Profile%20views&color=0e75b6&style=flat" alt="elyugen" /> </p>
