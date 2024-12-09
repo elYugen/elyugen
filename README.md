@@ -1,7 +1,7 @@
-<h1 align="center">Salut 👋, j'suis Yugen</h1>
+<h3 align="center">Salut 👋, j'suis Yugen</h3>
 <!-- <h3 align="center">Un artiste de renom enfermé dans la cave qui a fini sur un ordinateur</h3> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elyugen&label=Profile%20views&color=0e75b6&style=flat" alt="elyugen" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=elyugen&label=Profile%20views&color=0e75b6&style=flat" alt="elyugen" /> </p>-->
 
 
 <!-- <h3 align="left">Langages:</h3>
